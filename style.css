@@ -1,0 +1,584 @@
+#container{
+	width:1280px;
+	height:1024px;
+	margin:0 auto;
+}
+#ustBanner{
+	width:1280px;
+	height:40px;
+}
+#banner{
+	width:1280px;
+	height:60px;
+}
+#solBanner{
+	width:650px;
+	height:60px;
+	margin-right:250px;
+	float: left;
+}
+#fti{
+	width:100px;
+	height:60px;
+	margin-right:10px;
+	float: left;
+}
+#facebook{
+	width:25px;
+	height:25px;
+	padding-top:20px;
+}
+#twitter{
+	width:25px;
+	height:25px;
+	padding-top:20px;
+}
+#instagram{
+	width:25px;
+	height:25px;
+	padding-top:20px;
+}
+#kayitOl{
+	width:230px;
+	height:50px;
+	border: 2px solid #cc0000;
+	border-radius:5px;
+	float: left;
+}
+#signup{
+	width:30px;
+	height:30px;
+	padding-top:10px;
+	padding-left:10px;
+}
+.yazi{
+	color:#660000;
+	font-weight:600;
+}
+.yazi:hover{
+	color:#ff0000;
+	font-weight:700;
+}
+.sepetim{
+	font-weight:600;
+}
+.sepetim:hover{
+	color:green;
+	font-weight:700;
+}
+	
+#menu{
+	width:1000px;
+	height:50px;
+	float: left;
+	background-color: #339900;
+	margin-top:20px;
+	border-bottom: 3px #ff9900 solid;
+	margin-bottom:10px;
+	margin-right:10px;
+}
+#home{
+	width:50px;
+	height:50px;
+	float: left;
+}
+.menuListeLi{
+	display:inline;
+	font-size:20px;
+	padding-left:70px;
+	color:white;
+	font-weight:500;
+	font-family: "Times New Roman";
+}
+.menuListeLi:hover{
+	color:black;
+}
+#aramaDiv{
+	width:400px;
+	height:25px;
+	float:left;
+}
+#aramaKutu{
+	width:180px;
+	height:30px;
+	border:2px #ff9900 solid;
+	border-radius: 5px;
+	float:left;
+	padding-left:10px;
+	margin-right:460px;
+}
+#search{
+	width:22px;
+	height:22px;
+	padding-left:5px;
+}
+#ara{
+	width:110px;
+	color:gray;
+	border:0px;
+	font-style: italic;
+}
+#sepet{
+	width:115px;
+	height:50px;
+	float: left;
+	border:2px solid #336699;
+	border-radius:5px;
+	float:left;
+}
+#basket{
+	width:30px;
+	height:30px;
+	margin-top:6px;
+}
+#kategorilerBaslik{
+	width:150px;
+	height:50px;
+	float: left;
+	margin-right:200px;
+}
+#kategorilerBanner{
+	width:130px;
+	height:50px;
+}
+#kategoriler{
+	width:120px;
+	height:370px;
+	border:5px solid #339900;
+	border-radius:5px;
+	float:left;
+	margin-right:220px;
+	margin-bottom:300px;
+}
+#popYazarlarBaslik{
+	width:150px;
+	height:50px;
+	float:left;
+	margin-right:500px;
+}
+#popYazarlar{
+	width:130px;
+	height:50px;
+}
+#yeniCikanlarBaslik{
+	width:150px;
+	height:50px;
+	float:left;
+}
+#yeniCikanlar{
+	width:130px;
+	height:50px;
+}
+.kategoriListeLi{
+	font-size:18px;
+	padding-top:13px;
+	font-weight:700;
+	font-family: "Times New Roman";
+}
+.tumKatGos{
+	font-size:15px;
+	font-style:italic;
+}
+.kategoriListeLi:hover{
+	color:#336699;
+}
+.tumKatGos:hover{
+	color:green;
+}
+#popYazarlarDiv{
+	width:450px;
+	height:140px;
+	border:5px solid #ff9900;
+	border-radius:5px;
+	float:left;
+	margin-right:190px;
+	margin-bottom:100px;
+}
+#kafkaDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#kafka{
+	width:70px;
+	height:105px;
+}
+#dostoDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#dostoyevski{
+	width:70px;
+	height:105px;
+}
+#atayDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#atay{
+	width:70px;
+	height:105px;
+}
+#tanDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#canantan{
+	width:70px;
+	height:105px;
+}
+#orwellDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#orwell{
+	width:70px;
+	height:105px;
+}
+.popYazarlarIsim{
+	font-size:15px;
+	font-style:italic;
+}
+#yeniCikanlarDiv{
+	width:269px;
+	height:450px;
+	border:5px solid #ff9900;
+	border-radius:5px;
+	float:left;
+}
+#popKitaplarBaslik{
+	width:150px;
+	height:50px;
+	float:left;
+	margin-right:340px;
+}
+#popKitaplar{
+	width:130px;
+	height:50px;
+}
+#popKitaplarDiv{
+	width:450px;
+	height:140px;
+	border:5px solid #ff9900;
+	border-radius:5px;
+	margin-right:190px;
+	margin-bottom:500px;
+	float:left;
+}
+#donusumDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#donusum{
+	width:70px;
+	height:105px;
+}
+#sucDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#suc{
+	width:70px;
+	height:105px;
+}
+#tutunamayanlarDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#tutunamayanlar{
+	width:70px;
+	height:105px;
+}
+#pirayeDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#piraye{
+	width:70px;
+	height:105px;
+}
+#binDokuzDiv{
+	width:82px;
+	height:135px;
+	float:left;
+	padding-left:8px;
+}
+#bindokuz{
+	width:70px;
+	height:105px;
+}
+.popKitaplarIsim{
+	font-size:15px;
+	font-style:italic;
+}
+#nutukDiv{
+	width:70px;
+	height:105px;
+	margin-bottom:7px;
+	margin-left:5px;
+	float:left;
+}
+#nutuk{
+	width:70px;
+	height:105px;
+}
+
+#meleklerDiv{
+	width:70px;
+	height:105px;
+	margin-bottom:7px;
+	margin-left:5px;
+	float:left;
+}
+#melekler{
+	width:70px;
+	height:105px;
+}
+#turkler{
+	width:70px;
+	height:105px;
+}
+#turklerDiv{
+	width:70px;
+	height:105px;
+	margin-bottom:7px;
+	margin-left:5px;
+	float:left;
+}
+#sefillerDiv{
+	width:70px;
+	height:105px;
+	margin-bottom:7px;
+	margin-left:5px;
+	float:left;
+}
+#sefiller{
+	width:70px;
+	height:105px;
+}
+#nutukDivYazi{
+	width:185px;
+	height:105px;
+	float:left;
+	margin-left:5px;
+	margin-bottom:7px;
+}
+#meleklerDivYazi{
+	width:185px;
+	height:105px;
+	float:left;
+	margin-left:5px;
+	margin-bottom:7px;
+}
+#turklerDivYazi{
+	width:185px;
+	height:105px;
+	float:left;
+	margin-left:5px;
+	margin-bottom:7px;
+}
+#sefillerDivYazi{
+	width:185px;
+	height:105px;
+	float:left;
+	margin-left:5px;
+}
+.yeniCikanlarYazi{
+	font-size:15px;
+	font-style:italic;
+	line-height:30px;
+	margin-left:10px;
+}
+#footer{
+	width:1280px;
+	height:200px;
+	border-top: 3px solid #cccccc;
+	border-bottom: 3px solid #cccccc;
+	float:left;
+}
+#footerDoldurma{
+	width:1280px;
+	height:80px;
+	float:left;
+}
+#solFooter{
+	width:300px;
+	height:200px;
+	float:left;
+	
+}
+#telif{
+	width:180px;
+	height:20px;
+	padding-left:70px;
+}
+#satisIlkesi{
+	width:180px;
+	height:20px;
+	padding-left:70px;
+}
+#gizlilik{
+	width:180px;
+	height:20px;
+	padding-left:70px;
+}
+#satisSoz{
+	width:180px;
+	height:20px;
+	padding-left:70px;
+}
+#uyelik{
+	width:180px;
+	height:20px;
+	padding-left:70px;
+}
+.footerYazi{
+	font-size:16px;
+	font-weight:700;
+	font-family: "Times New Roman";
+}
+.footerYazi:hover{
+	color:#336699;
+}
+#soldanIkiFooter{
+	width:300px;
+	height:200px;
+	float:left;
+	padding-top:21px;
+}
+#yardim{
+	width:180px;
+	height:20px;
+	padding-left:80px;
+}
+#iletisim{
+	width:180px;
+	height:20px;
+	padding-left:80px;
+}
+#hakkimizda{
+	width:180px;
+	height:20px;
+	padding-left:80px;
+}
+#siparis{
+	width:180px;
+	height:20px;
+	padding-left:80px;
+}
+#appleAndroid{
+	width:130px;
+	height:200px;
+	float:left;
+	padding-left:50px;
+	padding-top:12px;
+}
+#appleDiv{
+	width:200px;
+	height:100px;
+}
+#apple{
+	width:80px;
+	height:80px;
+	float:left;
+}
+#googleDiv{
+	width:200px;
+	height:100px;
+	float:left;
+}
+#google{
+	width:80px;
+	height:80px;
+	float:left;
+}
+#sagdanIkiFooter{
+	width:160px;
+	height:160px;
+	padding-left:20px;
+	padding-top:80px;
+	float:left;
+}
+#facebookFooterDiv{
+	width:40px;
+	height:200px;
+	float:left;
+}
+#facebookFooter{
+	width:35px;
+	height:35px;
+}
+#twitterFooterDiv{
+	width:40px;
+	height:200px;
+	float:left;
+}
+#twitterFooter{
+	width:35px;
+	height:35px;
+}
+#instagramFooterDiv{
+	width:40px;
+	height:200px;
+	float:left;
+}
+#instagramFooter{
+	width:35px;
+	height:35px;
+}
+#sagFooter{
+	width:300px;
+	height:200px;
+	float:left;
+}
+#siteAdiDiv{
+	width:290px;
+	height:200px;
+	padding-top:50px;
+	padding-left:50px;
+}
+#siteAdi{
+	font-size:28px;
+	font-family: "Times New Roman";
+	color: #336699;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
